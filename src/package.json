@@ -1,6 +1,6 @@
 {
   "name": "crossover-window-detection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A window detection library for CrossOver",
   "main": "index.js",
   "directories": {
