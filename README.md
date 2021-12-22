@@ -2,6 +2,8 @@
 ## Requirements
 - An Electron app (Please take a look at the requirements of [electron-edge-js](https://www.npmjs.com/package/electron-edge-js) to know the exact version of Electron vs Node.js you need)
 - Depending the version of Node.js you have, you might need to install [Windows Build Tools](https://www.npmjs.com/package/windows-build-tools) before you try to install this package
+- A Windows system
+- .NET 4.5+ (You most likely already have it)
 
 ## Installation
 Via [NPM](https://www.npmjs.com/package/@nomis51/crossover-window-detection)
