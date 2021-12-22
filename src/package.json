@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/nomis51/crossover-window-detection#readme",
   "dependencies": {
-    "edge-js": "^16.6.0"
+    "electron-edge-js": "^14.16.1"
   }
 }
