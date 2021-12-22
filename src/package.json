@@ -1,5 +1,5 @@
 {
-  "name": "crossover-window-detection",
+  "name": "@nomis51/crossover-window-detection",
   "version": "1.0.1",
   "description": "A window detection library for CrossOver",
   "main": "index.js",

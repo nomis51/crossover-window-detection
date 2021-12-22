@@ -1,7 +1,7 @@
 const edge = require('electron-edge-js');
 
 const _getForegroundWindowInfos = edge.func({
-	assemblyFile: './lib/CrossOver.WindowDetection.dll',
+	assemblyFile: __dirname + '/lib/CrossOver.WindowDetection.dll',
 	typeName: 'CrossOver.WindowDetection.WindowDetection',
 	methodName: 'GetForegroundWindowInfos'
 });
