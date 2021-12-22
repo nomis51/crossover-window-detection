@@ -26,3 +26,9 @@ catch (e) {
   console.error(e)
 }
 ```
+
+## Dev
+The C# test project runs on .NET 5.0, so you'll need that (or downgrade the project).
+The library itself is .NET Standard 2.0.
+
+To test the JS part outside of Electron, locally install [edge-js](https://www.npmjs.com/package/edge-js) instead of the electron version and replace the import in index.js.
